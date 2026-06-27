@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Diseño Web",
+    "descripcion": "Creación de sitios modernos, responsivos y organizados."
+  },
+  {
+    "titulo": "Modularidad",
+    "descripcion": "Separación del código en componentes reutilizables."
+  },
+  {
+    "titulo": "GitHub Pages",
+    "descripcion": "Publicación del sitio web en un entorno accesible públicamente."
+  }
+]
